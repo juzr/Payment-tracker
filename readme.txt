@@ -28,28 +28,6 @@ Because of vacuum around the task (not much requirements or customer knowledge) 
 
 BUILD AND RUN
 
-You can build and run application in console by these steps:
-
- 1. Go to the directory 'src'
-
- 2. Compile by:
-      javac */*.java
-
- 3. Run by:
-      java paymenttracker/Paymenttracker
-
- 4. (Finally you can clear classfiles by:
-
-      rm */*.class
-    on linux or:
-
-      del */*.class
-    on win)
-
-If you want to load payments from file, move this file to the directory 'src'. Also move 'er_USD' to 'src' if you want to program display exchange rates.
-
-
-
 The project is created in NetBeans, so other way is import it by NetBeans (or other IDE).
 Also you can use build.xml and build-impl.xml NetBeans generated for ANT.
 
