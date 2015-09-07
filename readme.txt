@@ -51,5 +51,5 @@ If you want to load payments from file, move this file to the directory 'src'. A
 
 
 The project is created in NetBeans, so other way is import it by NetBeans (or other IDE).
-And also you can use build.xml and build-impl.xml NetBeans generated for ANT.
+Also you can use build.xml and build-impl.xml NetBeans generated for ANT.
 
